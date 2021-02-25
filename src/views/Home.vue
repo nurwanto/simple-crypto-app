@@ -9,7 +9,7 @@
     <Balance />
     
     <br/><br/>
-    <h3>The Last 3 Bitcoin Blocks</h3>
+    <h3>The Last 3 Ethereum Blocks</h3>
     <BitcoinBlocks />
   </div>
 </template>
